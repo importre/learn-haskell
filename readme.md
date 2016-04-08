@@ -3,7 +3,7 @@
 
 ## 환경설정 with [Atom][atom]
 
-뭐든 환경이 갖춰진 상태여야... :troll:
+뭐든 환경이 갖춰진 상태여야... :trollface:
 
 <img src="https://cloud.githubusercontent.com/assets/1744446/14372437/9a690fbe-fd7b-11e5-9b65-d7c86fd5e2b2.png" with="100px" />
 
